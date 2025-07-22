@@ -42,5 +42,3 @@ Portfolio Website/
 ## **ติดต่อ**
 - **อีเมล**: your.email@example.com
 - **เบอร์โทรศัพท์**: 0649876543
-- **GitHub**: [ENGCE301-1-68](https://github.com/ENGCE301-1-68)
-- **LinkedIn**: [คลิกที่นี่](https://www.linkedin.com)
