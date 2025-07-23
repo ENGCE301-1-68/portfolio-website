@@ -10,6 +10,13 @@ body {
     line-height: 1.6;
     color: #333;
     overflow-x: hidden;
+    transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+
+.about-image img {
+    width: 150px;  
+    height: 600px;  
 }
 
 .container {
@@ -542,3 +549,4 @@ body.dark .contact-form {
 body.dark .footer {
     background: #111;
 }
+
